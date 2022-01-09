@@ -1,3 +1,6 @@
+.ddev
+.ddev.bak
+.vscode
 .hosts.yml
 .DS_Store
 .idea
